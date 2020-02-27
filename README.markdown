@@ -2,5 +2,5 @@
  
  ## Doping in Professional Bicycle Racing
 
- (https://atiyahaider.github.io/D3_Scatter-Plot/)
+ (https://atiyahaider.github.io/D3-Scatter-Plot/)
  
